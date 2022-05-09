@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![NFT card preview](./screenshot.jpg)
+![NFT card preview](./desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-H1GlFT8Lc)
+- Live Site URL: [Vercel](https://nft-preview-card-component-plum.vercel.app/)
 
 ## My process
 
@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@n3kk3ll](https://www.frontendmentor.io/profile/n3kk3ll)
+- GitHub - [@n3kk3ll](https://github.com/n3kk3ll)
+- LinkedIn - [Andrii Zhemchuzhnyi](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B6%D0%B5%D0%BC%D1%87%D1%83%D0%B6%D0%BD%D1%8B%D0%B9-26019b221/)
