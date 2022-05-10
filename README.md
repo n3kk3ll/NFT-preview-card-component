@@ -42,4 +42,4 @@ Users should be able to:
 
 - Frontend Mentor - [@n3kk3ll](https://www.frontendmentor.io/profile/n3kk3ll)
 - GitHub - [@n3kk3ll](https://github.com/n3kk3ll)
-- LinkedIn - [Andrii Zhemchuzhnyi](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B6%D0%B5%D0%BC%D1%87%D1%83%D0%B6%D0%BD%D1%8B%D0%B9-26019b221/)
+- LinkedIn - [Andrii Zhemchuzhnyi](https://www.linkedin.com/in/andrii-zhemchuzhnyi-26019b221/)
